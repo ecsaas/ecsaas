@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-cookie-config/.idea/api-cookie-config.iml" filepath="$PROJECT_DIR$/api-cookie-config/.idea/api-cookie-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-request-config/.idea/api-request-config.iml" filepath="$PROJECT_DIR$/api-request-config/.idea/api-request-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/define-variables/.idea/define-variables.iml" filepath="$PROJECT_DIR$/define-variables/.idea/define-variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ecsaas.iml" filepath="$PROJECT_DIR$/.idea/ecsaas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-define-config/.idea/main-define-config.iml" filepath="$PROJECT_DIR$/main-define-config/.idea/main-define-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-router-config/.idea/main-router-config.iml" filepath="$PROJECT_DIR$/main-router-config/.idea/main-router-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memcache-define-config/.idea/memcache-define-config.iml" filepath="$PROJECT_DIR$/memcache-define-config/.idea/memcache-define-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongo-define-config/.idea/mongo-define-config.iml" filepath="$PROJECT_DIR$/mongo-define-config/.idea/mongo-define-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql-define-config/.idea/mysql-define-config.iml" filepath="$PROJECT_DIR$/mysql-define-config/.idea/mysql-define-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sendgrid-sendmail-config/.idea/sendgrid-sendmail-config.iml" filepath="$PROJECT_DIR$/sendgrid-sendmail-config/.idea/sendgrid-sendmail-config.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="Go" enabled="true" />
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="api-cookie-config" />
+    <orderEntry type="module" module-name="api-request-config" />
+    <orderEntry type="module" module-name="define-variables" />
+    <orderEntry type="module" module-name="main-define-config" />
+    <orderEntry type="module" module-name="main-router-config" />
+    <orderEntry type="module" module-name="memcache-define-config" />
+    <orderEntry type="module" module-name="mongo-define-config" />
+    <orderEntry type="module" module-name="mysql-define-config" />
+    <orderEntry type="module" module-name="sendgrid-sendmail-config" />
+  </component>
+</module>

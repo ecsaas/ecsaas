@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-cookie-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-request-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/define-variables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/main-define-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/main-router-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/memcache-define-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mongo-define-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mysql-define-config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sendgrid-sendmail-config" vcs="Git" />
+  </component>
+</project>
